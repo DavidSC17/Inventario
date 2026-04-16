@@ -1,5 +1,5 @@
 using System;
-public class inventario()
+public class Inventario()
 {
  public void ListaProductos()
  {
