@@ -1,4 +1,4 @@
-Using System;
+using System;
 public class inventario()
 {
  public void ListaProductos()
